@@ -14,12 +14,11 @@ push.setVapidDetails(
 
 let sub = {
   endpoint:
-    'https://fcm.googleapis.com/fcm/send/eqLYrwvPINg:APA91bG67u3d5E7hFaF_04aWgJ4eA09ADJ5isl-ARKKyN5Xn_0yu1-_CaNXfQZ_Dv8OvC3iDy9EkHNiPk9EdAsa4gkmTVv5P5jzfZXItJAMSFtg7Ea4DJrh5suS7MO7sHGiG4xMHAnTx',
-  expirationTime: null,
+    'https://updates.push.services.mozilla.com/wpush/v2/gAAAAABhx…qjgkk_iqjYFYw_ozhQlTXpZB7ISeGHYp40aZiWCGe16rmDTADNOt7JpwERq8',
   keys: {
+    auth: 'NxBbyNLzUaI8eCNoKVU7XA',
     p256dh:
-      'BKs9kkJxiwugZEqDMbW3cuMEOhIYpZgbbbqlbieJUR1NWJ-KuxvD6Rl6_svqN6N_2uSoad543wVbJazLTJmLWXs',
-    auth: 'DwuzbDFy-Mo1iicKsZs0fw',
+      'BKecaWqiHdkcGwHM6VPK-K_hhcORQAu-VgF-YEaT794ZHKs-nNx51rW8idZXAboOQkRr1PhaG9QJTJGmECM--Qw',
   },
 }
 
